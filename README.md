@@ -1,0 +1,2 @@
+# calcuater
+only whole numbers
